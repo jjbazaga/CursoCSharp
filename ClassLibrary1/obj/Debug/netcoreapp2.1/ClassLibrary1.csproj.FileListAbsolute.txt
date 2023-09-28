@@ -1,0 +1,9 @@
+C:\temp\CursoCSharp\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.deps.json
+C:\temp\CursoCSharp\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.dll
+C:\temp\CursoCSharp\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.pdb
+C:\temp\CursoCSharp\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.csprojAssemblyReference.cache
+C:\temp\CursoCSharp\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\temp\CursoCSharp\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\temp\CursoCSharp\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.AssemblyInfo.cs
+C:\temp\CursoCSharp\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.dll
+C:\temp\CursoCSharp\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.pdb

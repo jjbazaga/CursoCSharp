@@ -20,3 +20,6 @@ C:\temp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.AssemblyInfo
 C:\temp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.AssemblyInfo.cs
 C:\temp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.dll
 C:\temp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.pdb
+C:\temp\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\Encapsulamento.dll
+C:\temp\CursoCSharp\CursoCSharp\bin\Debug\netcoreapp2.1\Encapsulamento.pdb
+C:\temp\CursoCSharp\CursoCSharp\obj\Debug\netcoreapp2.1\CursoCSharp.csproj.CopyComplete
